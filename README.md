@@ -2,12 +2,12 @@
 
 ### 🔍 About me
 
-👨‍💻 Full-Stack Software Engineer at eBay<br>
-🔙 Previously at Amazon, Ocado Technology<br>
-🎓 Master of Science from Sapienza University of Rome<br>
-🇮🇹 Born in Roma, Italy<br>
-🇬🇧 Living in London, United Kingdom<br>
-🕹️ Video games player and collector
+- 👨‍💻 Full-Stack Software Engineer at eBay
+- 🔙 Previously at Amazon, Ocado Technology
+- 🎓 Master of Science from Sapienza University of Rome
+- 🇮🇹 Born in Roma, Italy
+- 🇬🇧 Living in London, United Kingdom
+- 🕹️ Video games player and collector
 
 ### ⚡ Languages
 
@@ -44,9 +44,9 @@
 
 ### 📫 Let's get in touch!
 
-![Email](https://img.shields.io/badge/-Email-000?logo=Gmail&link=mailto:stefano.cianciulli@gmail.com)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub&link=https://github.com/CianciuStyles)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=LinkedIn&link=https://www.linkedin.com/in/stefanocianciulli/)
-![Personal Wiki](https://img.shields.io/badge/-Personal%20Wiki-000?logo=Wikipedia&link=https://cianciustyles.gitbook.io/everything-i-know/)
-![Twitter](https://img.shields.io/badge/-Twitter-000?logo=Twitter&link=https://twitter.com/CianciuStyles)
-![Website](https://img.shields.io/badge/-Website-000?logo=Firefox%20Browser&link=https://cianciustyles.github.io)
+[![Email](https://img.shields.io/badge/-Email-000?logo=Gmail)](mailto:stefano.cianciulli@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=GitHub)](https://github.com/CianciuStyles)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=LinkedIn)](https://www.linkedin.com/in/stefanocianciulli)
+[![Personal Wiki](https://img.shields.io/badge/-Personal%20Wiki-000?logo=Wikipedia)](https://cianciustyles.gitbook.io/everything-i-know)
+[![Twitter](https://img.shields.io/badge/-Twitter-000?logo=Twitter)](https://twitter.com/CianciuStyles)
+[![Website](https://img.shields.io/badge/-Website-000?logo=Firefox%20Browser)](https://cianciustyles.github.io)
