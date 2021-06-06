@@ -2,10 +2,11 @@
 
 ### 🔍 About me
 
-👨‍💻 Full-Stack Software Engineer at eBay
-🔙 Previously at Amazon, Ocado Technology
-🇮🇹 Born in Roma, Italy
-🇬🇧 Living in London, United Kingdom
+👨‍💻 Full-Stack Software Engineer at eBay<br>
+🔙 Previously at Amazon, Ocado Technology<br>
+🎓 Master of Science from Sapienza University of Rome<br>
+🇮🇹 Born in Roma, Italy<br>
+🇬🇧 Living in London, United Kingdom<br>
 🕹️ Video games player and collector
 
 ### ⚡ Languages
